@@ -1,0 +1,8 @@
+{
+  "name": "navMenu",
+  "version": "1.0.0",
+  "description": "vue.js practice",
+  "main": "index.js",
+  "author": "Brian Lee <40387476+hIkipooh@users.noreply.github.com>",
+  "license": "MIT"
+}
